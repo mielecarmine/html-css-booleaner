@@ -1,0 +1,13 @@
+#logo_bool {
+    width: 10%;
+    margin-top: 45px;
+} 
+
+
+#logo_head {
+    height: 100px;
+    background-color: rgb(76, 76, 255);
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-image: url("../img/pattern.png");
+}
